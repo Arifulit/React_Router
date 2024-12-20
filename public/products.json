@@ -1,0 +1,245 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Gaming Laptop",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlygWcz51gyDexlstejSgZZ2LSxqF4rBz3wQ&s",
+        "category": "Laptops",
+        "price": 1299.99,
+        "description": "High-performance gaming laptop with powerful graphics and processor.",
+        "Specification": [
+            "16GB RAM",
+            "1TB SSD",
+            "NVIDIA GeForce RTX 3060",
+            "15.6-inch Full HD Display"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "discount": 10
+    },
+    {
+        "product_id": 2,
+        "product_title": "Smartphone Pro",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDJ1d_x85H_Hy8OFDyONjHIb2rwBj8nASSTg&s",
+        "category": "Phones",
+        "price": 899.99,
+        "description": "Latest model smartphone with advanced camera and large storage.",
+        "Specification": [
+            "128GB Storage",
+            "6GB RAM",
+            "Triple Camera System",
+            "5G Support"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 3,
+        "product_title": "Wireless Headphones",
+        "product_image": "https://m.media-amazon.com/images/I/61Gzf69kVPL.jpg",
+        "category": "Accessories",
+        "price": 199.99,
+        "description": "Noise-cancelling over-ear headphones with long battery life.",
+        "Specification": [
+            "Up to 30 hours battery",
+            "Bluetooth 5.0",
+            "Noise Cancellation",
+            "Built-in Microphone"
+        ],
+        "availability": false,
+        "rating": 4.5,
+        "discount": 15
+    },
+    {
+        "product_id": 4,
+        "product_title": "Smart Watch Series 5",
+        "product_image": "https://www.shutterstock.com/image-photo/rome-italy-november-2019-apple-600nw-1553002988.jpg",
+        "category": "SmartWatche",
+        "price": 299.99,
+        "description": "Smart watch with fitness tracking, heart rate monitoring, and GPS.",
+        "Specification": [
+            "GPS + Cellular",
+            "Heart Rate Monitoring",
+            "Water Resistant",
+            "Fitness Tracking"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 5,
+        "product_title": "MacBook Pro 14",
+        "product_image": "https://media.cnn.com/api/v1/images/stellar/prod/211025072623-macbook-pro-14-display-5.jpg?q=w_4032,h_2268,x_0,y_0,c_fill",
+        "category": "MacBook",
+        "price": 1999.99,
+        "description": "Powerful MacBook with M1 chip, ideal for professionals.",
+        "Specification": [
+            "Apple M1 Pro Chip",
+            "16GB RAM",
+            "512GB SSD",
+            "14-inch Retina Display"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 6,
+        "product_title": "iPhone 13",
+        "product_image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-01.jpg",
+        "category": "iPhones",
+        "price": 999.99,
+        "description": "New generation iPhone with enhanced camera and battery life.",
+        "Specification": [
+            "128GB Storage",
+            "5G Enabled",
+            "12MP Dual Camera System",
+            "A15 Bionic Chip"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 7,
+        "product_title": "4K UHD Monitor",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToGLNQzJFmgtw2oxAAaS39xkKQPdF0gm0YlA&s",
+        "category": "Accessories",
+        "price": 499.99,
+        "description": "Ultra-high-definition 27-inch monitor for a stunning visual experience.",
+        "Specification": [
+            "27-inch UHD Display",
+            "HDR Support",
+            "1ms Response Time",
+            "IPS Panel"
+        ],
+        "availability": true,
+        "rating": 4.4,
+        "discount": 20
+    },
+    {
+        "product_id": 8,
+        "product_title": "Bluetooth Speaker",
+        "product_image": "https://gadgetbreeze.com.bd/wp-content/uploads/2023/11/USAMS-US-YX013-Bluetooth-Speaker-With-Microphone.jpg",
+        "category": "Accessories",
+        "price": 149.99,
+        "description": "Portable Bluetooth speaker with deep bass and waterproof design.",
+        "Specification": [
+            "Waterproof IPX7",
+            "Up to 12 hours playtime",
+            "Bluetooth 5.0",
+            "360-degree sound"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": 9,
+        "product_title": "Tablet Pro",
+        "product_image": "https://p2-ofp.static.pub/fes/cms/2022/08/01/ycumf4z4oia108az0pq0kzvf17wdws486228.png",
+        "category": "Phones",
+        "price": 749.99,
+        "description": "High-performance tablet with stunning display and long battery life.",
+        "Specification": [
+            "11-inch Retina Display",
+            "128GB Storage",
+            "A14X Bionic Chip",
+            "Apple Pencil Support"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 10,
+        "product_title": "Gaming Mouse",
+        "product_image": "https://cdn.mos.cms.futurecdn.net/rfphfWvEc3PL2wfPJvZGiP.jpg",
+        "category": "Accessories",
+        "price": 79.99,
+        "description": "Ergonomic gaming mouse with customizable buttons and RGB lighting.",
+        "Specification": [
+            "RGB Lighting",
+            "Customizable Buttons",
+            "16000 DPI Sensor",
+            "USB Wired"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 11,
+        "product_title": "Mechanical Keyboard",
+        "product_image": "https://m.media-amazon.com/images/I/71fRP7KY9hL._AC_SL1500_.jpg",
+        "category": "Accessories",
+        "price": 109.99,
+        "description": "High-quality mechanical keyboard with customizable RGB backlighting.",
+        "Specification": [
+            "Customizable RGB",
+            "Mechanical Switches",
+            "Programmable Keys",
+            "USB Wired"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 12,
+        "product_title": "Wireless Charger",
+        "product_image": "https://www.cnet.com/a/img/resize/8dfd582b861be518dcb968d1f1b6de01ef114961/hub/2023/02/28/9da2e9c7-d07d-45cb-89d1-18c7013249e5/anker-315-wireless-charger.png?auto=webp&fit=crop&height=900&width=1200",
+        "category": "Accessories",
+        "price": 49.99,
+        "description": "Fast wireless charger compatible with most smartphones.",
+        "Specification": [
+            "10W Fast Charging",
+            "Qi Certified",
+            "Compact Design",
+            "LED Indicator"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 13,
+        "product_title": "Action Camera",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTNAAhnUzY1Yb6jgB4RMDC0pA5CYz_fr3BUA&s",
+        "category": "Accessories",
+        "price": 299.99,
+        "description": "Compact action camera with 4K video recording and waterproof design.",
+        "Specification": [
+            "4K Video Recording",
+            "Waterproof Up to 30m",
+            "Wide-Angle Lens",
+            "Built-in Stabilization"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 14,
+        "product_title": "Smart Home Hub",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG12eFgObi2S4mi-FRGMz5HCc9SOslvbxHtg&s",
+        "category": "Accessories",
+        "price": 99.99,
+        "description": "Central hub for managing smart home devices.",
+        "Specification": [
+            "Compatible with Alexa and Google Assistant",
+            "Wi-Fi Connectivity",
+            "Mobile App Control",
+            "Supports Multiple Devices"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 15,
+        "product_title": "Portable SSD 1TB",
+        "product_image": "https://cdn.mos.cms.futurecdn.net/truTS2nAYawZuquxyBG8Sh.jpg",
+        "category": "Accessories",
+        "price": 129.99,
+        "description": "Fast portable SSD with high storage capacity for on-the-go use.",
+        "Specification": [
+            "1TB Storage",
+            "USB 3.2 Gen 2",
+            "Compact and Lightweight",
+            "Shock Resistant"
+        ],
+        "availability": true,
+        "rating": 4.8
+    }
+]
